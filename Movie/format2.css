@@ -1,0 +1,9 @@
+
+body {color: # 00FF00;
+ background-color: #FFFF00;margin-left: auto;
+ margin-right: auto; width:80%; font-family: Arial}
+h1{color:#00FF00;background-color: #FFFFFF;font-family: Time New Roman}
+nav {background-color: #FFFFFF}
+footer{background-color: #D2B48C;
+ font-size: .60em;font-family: italics,sans-serif;font-style: italic;text-align: center;}
+dl {font-weight: bold;}
