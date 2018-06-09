@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<header>
+<link rel="stylesheet" href="style.css">
+<title>JavaJam Coffee House</title>
+<meta charset="utf-8">
+</header>
+<body>
+<h1 class="new">JavaJam Coffee House</h1>
+<nav>
+<a href="index.html">Home</a>&nbsp
+<a href="menu.html">Menu</a>&nbsp
+<a href="index">Music</a>&nbsp
+<a href="index">Jobs</a>&nbsp
+</nav>
+<h2>Relax at JavaJam</h2>
+<main>
+<ul>
+    <li>Specialty Coffee and Tea</li>
+    <li>Bagels, Muffins,and Organic Snacks</li>
+    <li>Music and Poetry Reading</li>
+    <li>Open Mic Night</li>
+</ul>
+</main>
+<dvi>
+54321 Route 42<br>
+Ellison Bay, WI543210<br>
+888-555-5555<br>
+</dvi>
+<br>
+<footer>
+Copyright &copy 2016 JavaJam Coffee House<br>
+<a href=¡°mailto:me@gmail.com¡±>Tony@Shi.com</a>
+</footer>
+</body>
+</html>
