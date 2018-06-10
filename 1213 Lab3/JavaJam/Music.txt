@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <title>JavaJam Coffee House</title>
+</head>
+<body>
+<div id="wrapper">
+<h1 class="new">JavaJam Coffee House</h1>
+<nav>
+  <a href="index.html">Home</a>&nbsp
+  <a href="menu.html">Menu</a>&nbsp
+  <a href="Music.html">Music</a>&nbsp
+  <a href="index">Jobs</a>&nbsp
+</nav>
+  <div class="padding">
+<h2>Music at JavaJam</h2>
+<p>The first Friday night each month at JavaJam is a special night. Join us form 8 pm to 11 pm for some music you <br>won't want to miss!</p>
+  <h4>January</h4>
+<div class="details">
+  <img src="image/melaniethumb.jpg" alt="group">Melanie Morrie entertains with her melodic folk style
+</div>
+<h4>February</h4>
+<div class="details">
+  <img src="image/gregthumb.jpg" alt="group">Tahoe Greg is back from his tour. New songs. New stories
+</div>
+  </div>
+<br>
+<br>
+<footer>
+  Copyright &copy 2016 JavaJam Coffee House<br>
+  <a href=¡°mailto:me@gmail.com¡±>Tony@Shi.com</a>
+</footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="style.css">
+  <title>Pacific Trails Resort::Yurts</title>
+  <meta charset="utf-8">
+</head>
+<body>
+<div id="wrapper">
+<h1 class="new">Pacific Trails Resort</h1>
+<nav>
+  <a href="Home.html"><b>Home</b></a>&nbsp
+  <a href="Yurt.html"><b>Yurt</b></a>&nbsp
+  <a href="activities.html"><b>Activities</b></a>&nbsp
+  <a href="index"><b>Reservations</b></a>&nbsp
+</nav>
+<div id="yurthero">
+<img src="image/yurt.jpg" alt="group" width="1024">
+</div>
+  <br>
+  <div class="padding">
+<h2>The Yurts at Pacific Trails</h2>
+<main>
+  <dl>
+    <dt><strong>What is a yurt?</strong></dt>
+    <dd>Our luxury yurts are permanent structures four feet off the ground.<br> Each yurt has canvas walls, a wooden floor, and a roof dome that <br>can be opened.</dd>
+    <dt><strong>How are the yurts furnished?</strong></dt>
+    <dd>Each yurt is furnished with a queen-size bed with down quit <br>and gas-fired stove. The luxury camping experience also includes <br>eletricity and a sink with hot and cold running water.Shower <br>and restroom facilities are located in the lodge</dd>
+    <dt><strong>what should I bring ?</strong></dt>
+    <dd>Bring a sense od adventure and some time ro relax! Most guests also <br>pack comfortable walking shoes and plan ro dress for changing <br>weather with layers of clothing</dd>
+  </dl>
+</main>
+  </div>
+<footer>
+  <small><i>Copyright &copy 2016 Pacific Trails Resort</small></i><br>
+  <small><i><a href=¡°mailto:me@gmail.com¡±>Tony@Shi.com</a></small></i>
+</footer>
+</div>
+</body>
+</html>
+
